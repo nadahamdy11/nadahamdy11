@@ -1,0 +1,144 @@
+
+.pa {
+    
+    background-color: #EEE;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.pa div{
+    font-weight: bold;
+    float: left;
+    background-color: #DDD;
+}
+.A {
+    clear: both;
+}
+.FULL {
+    padding: 15px 0 ;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: calc((100% - 30px) /1);    
+}
+
+.B{
+    padding: 15px 0;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: calc((100% - 60px)/3);
+}
+
+.C{
+    padding: 15px 0;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: calc((100% - 45px)/2);
+}
+
+.D{
+    padding: 15px 0 ;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: calc((100% - 75px)/4);
+}
+
+ 
+
+
+.ass2 div{
+   
+    position: relative;
+    width:  100px;  
+    height: 100px;
+   
+  
+}
+.div1{
+    background-color: rgb(30, 182, 221);
+    position:absolute;
+    left: 0px;
+    top: 120px;
+    z-index: 1;
+}
+.div2{
+    
+    background-color:green;
+       position:absolute;
+    left: 10px;
+    top: 35px;
+    z-index: 2;
+}
+.div3{
+    background-color: red;
+       position:absolute;
+    left: 20px;
+    top: -55px;
+    z-index: 3;
+}
+.div4 {
+    background-color: black;
+       position:absolute;
+    left: 0px;
+    top: -165px;
+    z-index: -1;
+}
+
+
+
+table  {
+                               
+    width: 700px;
+    margin: 20px auto;
+    border-spacing: 1px;
+    font-size: 15px;
+    margin-left: 30px;
+    align-items: center;
+}
+
+
+
+table thead tr {
+    background-color: rgba(3, 2, 2, 0.774);
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+}
+table thead tr td {
+    padding: 10px;
+}
+
+table tbody tr {
+    background-color: #EEE;
+    text-align: center;
+}         
+table tbody tr td {
+    padding: 10px;
+}
+
+table tbody tr img {
+    border: 3px solid #FFF;
+    max-width: 60px;
+    max-height: 60px;
+}
+
+table tbody tr .view {
+    background-color: #03a9f4;
+    color: #FFF;
+    border: none;
+    width: 45px;
+    padding: 3px;
+}
+
+table tbody tr .delete {
+    background-color: #e91e63;
+    color: #FFF;
+    border: none;
+    width: 45px;
+    padding: 3px;
+}
+
+table tfoot tr td {
+    border-bottom: 2px solid #099a8c;
+}
