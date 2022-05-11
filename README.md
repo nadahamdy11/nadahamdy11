@@ -4,7 +4,7 @@
  
  <h3 align="left">Connect with me:</h3>
 
- <a target="_blank" href=" https://www.linkedin.com/in/nada-hamdy-507158237/">
+ <a target="_blank" href="https://www.linkedin.com/in/nada-hamdy-507158237/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  
