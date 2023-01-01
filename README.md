@@ -61,7 +61,4 @@
 
   
   
-<p align="center" class="box" style="text-align:center">
-     <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px">
-    
-</p>
+
